@@ -19,7 +19,7 @@ function login() {
   return (
     <Card className="w-[80%] lg:w-[20%] md:w-[50%] m-auto mt-20 ">
       <CardHeader className="space-y-1">
-        <CardTitle className="text-2xl">Create an account</CardTitle>
+        <CardTitle className="text-2xl">Login</CardTitle>
         <CardDescription>
           Enter your email below to create your account
         </CardDescription>
